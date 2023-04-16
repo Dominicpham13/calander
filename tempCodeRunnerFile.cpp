@@ -1,0 +1,2 @@
+ cin >> events[day];
+}
